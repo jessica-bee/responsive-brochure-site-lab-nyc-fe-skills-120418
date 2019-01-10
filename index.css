@@ -28,5 +28,6 @@ h1{
   color: #fff;
   position: absolute;
   top: 40%;
-  left: ;
+  width: 100%;
+  text-align: center;
 }
