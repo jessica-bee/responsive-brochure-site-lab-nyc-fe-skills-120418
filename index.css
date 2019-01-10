@@ -1,0 +1,30 @@
+body{
+  background-image: url("https://static1.squarespace.com/static/54bc7293e4b00aad29df58a6/t/5590aea1e4b01c6273ef04a9/1435545250930/");
+  font-family: Sans-Serif;
+}
+ul {
+  list-style-type: none;
+  font-size: 30px;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  color: #fff;
+  padding: 10px;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1{
+  font-size: 60px;
+  color: #fff;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
