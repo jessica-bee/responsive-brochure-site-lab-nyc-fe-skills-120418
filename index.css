@@ -27,5 +27,5 @@ h1{
   font-size: 60px;
   color: #fff;
   text-align: center;
-  position: absolute;
+  position: static;
 }
